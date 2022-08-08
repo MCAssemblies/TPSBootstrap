@@ -1,8 +1,8 @@
 {
-  "name": "tps/service-validation",
+  "name": "tps/bootstrap",
   "autoload": {
     "psr-4": {
-      "TPS\\ServiceValidation\\": "app"
+      "TPS\\Bootstrap\\": "app"
     }
   },
   "require": {}
