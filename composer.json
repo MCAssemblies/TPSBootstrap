@@ -1,0 +1,9 @@
+{
+  "name": "tps/service-validation",
+  "autoload": {
+    "psr-4": {
+      "TPS\\ServiceValidation\\": "src/app"
+    }
+  },
+  "require": {}
+}
